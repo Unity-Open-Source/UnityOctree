@@ -1,0 +1,9 @@
+{
+    "name": "com.nition.unity-octree",
+    "displayName": "UnityOctree",
+    "version": "0.0.0",
+    "unity": "2019.3",
+    "type": "tool",
+    "author": "Nition",
+    "description": "A dynamic octree implementation for Unity written in C#."
+  }
