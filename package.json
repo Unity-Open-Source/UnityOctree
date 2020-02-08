@@ -1,7 +1,7 @@
 {
     "name": "com.nition.unity-octree",
     "displayName": "UnityOctree",
-    "version": "0.0.0",
+    "version": "0.0.1-preview",
     "unity": "2019.3",
     "type": "tool",
     "author": "Nition",
